@@ -45,7 +45,7 @@
 }
 .design{
 	background-color:darkgray;
-	width:50%;
+	flex-direction:column;
 	display:flex;
 	align-items:center;
 	justify-context:center;
