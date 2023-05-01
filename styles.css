@@ -39,3 +39,14 @@
         outline: none;
         border-color: #007bff;
       }
+
+.container{
+	border:1px solid black;
+}
+.design{
+	background-color:darkgray;
+	width:50%;
+	display:flex;
+	align-items:center;
+	justify-context:center;
+}
